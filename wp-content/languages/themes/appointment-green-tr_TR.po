@@ -1,0 +1,85 @@
+# Translation of Themes - Appointment Green in Turkish
+# This file is distributed under the same license as the Themes - Appointment Green package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-08 08:24:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Appointment Green\n"
+
+#. Description of the theme
+msgid "A Business theme which is ideal for creating a corporate / business website. Appointment Green theme is a child theme of appointment which has several sections such as slider, services , widget area, etc etc. The green of this theme makes your site looks clean and elegant. Appointment Green theme comes with various locales."
+msgstr "Kurumsal / işletme web sitesi oluşturmak için ideal olan bir iş teması. Appointment Green teması Appointment temasının alt temasıdır ve kaydırıcı, hizmetler, bileşen alanı vb. pek çok bölümlere sahiptir. Bu temanın yeşili sitenizi temiz ve şık gösterir. Appointment Green teması Türkçe çeviri ile gelir."
+
+#. Theme Name of the theme
+msgid "Appointment Green"
+msgstr "Appointment Green"
+
+#: functions/customizer/customizer-copyright.php:239
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: functions/customizer/customizer-copyright.php:203
+msgid "GooglePlus URL"
+msgstr "GooglePlus URL"
+
+#: functions/customizer/customizer-copyright.php:167
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/customizer-copyright.php:132
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/customizer/customizer-copyright.php:113
+#: functions/customizer/customizer-copyright.php:149
+#: functions/customizer/customizer-copyright.php:184
+#: functions/customizer/customizer-copyright.php:220
+#: functions/customizer/customizer-copyright.php:256
+msgid "Open link in new tab"
+msgstr "Bağlantıyı yeni sekmede aç"
+
+#: functions/customizer/customizer-copyright.php:96
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "Alt kısım sosyal ağ simgelerini gizle"
+
+#: functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "Sosyal ağ bağlantıları"
+
+#: functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "Telif hakkı metnini gizle"
+
+#: functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr "Telif hakkı metni"
+
+#: functions/customizer/customizer-copyright.php:23 functions.php:27
+msgid "<a href=\"https://wordpress.org\">Proudly powered by WordPress</a> | Theme: <a href=\"https://webriti.com\" rel=\"designer\">Appointment Green</a> by Webriti"
+msgstr "<a href=\"https://wordpress.org\">Gururla WordPress üzerinde çalışmaktadır</a> | Tema: <a href=\"https://webriti.com\" rel=\"designer\">Appointment Green</a>, geliştiricisi: Webriti"
+
+#: functions/customizer/customizer-copyright.php:7
+#: functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr "Alt kısım telif hakkı ayarları"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/appointment-green-child-version-details-page-1/"
+msgstr "https://webriti.com/appointment-green-child-version-details-page-1/"

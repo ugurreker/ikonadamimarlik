@@ -1,0 +1,1418 @@
+# Translation of Themes - Allegiant in Turkish
+# This file is distributed under the same license as the Themes - Allegiant package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-15 07:36:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Allegiant\n"
+
+#. Description of the plugin/theme
+msgid "Allegiant is a free multipurpose WordPress theme perfect for agencies and professionals. This theme comes with support for a full homepage slider, feature blocks, portfolios, services, team members, and even testimonials, all thanks to its companion plugin CPO Content Types. Allegiant is one of the best business WordPress themes thanks to its neutral design and extreme flexibility. Moreover, this theme also integrates with popular plugins such as WooCommerce, Yoast SEO, WPML, and Contact Form 7."
+msgstr "Allegiant, ticari kuruluşlara ve profesyonellere hitap eden ücretsiz ve çok işlevli bir WordPress temasıdır. Bu tema, tümü CPO Content Types eklentisi marifetiyle tam sayfa slayt gösterisi aracı, özellik blokları, portföy, hizmetler, takım üyeleri ve hatta deneyim yorumları gibi işlevleri desteklemektedir. Allegiant nötr tasarımı ve olağanüstü esnekliği sayesinde en iyi ticari WordPress temalarından biridir. Dahası, bu tema WooCommerce, Yoast SEO, WPML ve Contact Form 7 gibi eklentilerle de bütünleşmiştir."
+
+#. Theme Name of the plugin/theme
+msgid "Allegiant"
+msgstr "Allegiant"
+
+#: includes/libraries/welcome-screen/sections/support.php:51
+msgid "There are so many services offering cheap WordPress hosting out there that picking a winner can often seem like a game of chance. This article will hopefully allow you to make an informed decision, catered to your needs"
+msgstr "Ortada uygun fiyata WordPress barındırma hizmeti sağlayan bu kadar çok seçenek varken bunların en iyisini seçebilmek genellikle şans oyunu gibidir. Umulur ki bu makale, ihtiyaçlarınızı karşılayabilecek, bilinçli tercih yapmanızı sağlayacaktır."
+
+#: includes/libraries/welcome-screen/sections/support.php:49
+msgid "Cheap WordPress hosting"
+msgstr "Ucuz WordPress barındırma"
+
+#: includes/libraries/welcome-screen/sections/support.php:40
+msgid "Thinking that the best WordPress security plugins aren't going to come cheap, not to mention free? Luckily, that's not the case."
+msgstr "En iyi WordPress güvenlik eklentilerini ücretsiz bulmak bir yana, ucuza bile bulamayacağınızı mı düşünüyorsunuz? Neyse ki durum düşündüğünüz gibi değil."
+
+#: includes/libraries/welcome-screen/sections/support.php:38
+msgid "Best security plugins"
+msgstr "En iyi güvenlik eklentileri"
+
+#: includes/libraries/welcome-screen/sections/support.php:33
+#: includes/libraries/welcome-screen/sections/support.php:44
+#: includes/libraries/welcome-screen/sections/support.php:55
+msgid "Read more"
+msgstr "Devamını oku"
+
+#: includes/libraries/welcome-screen/sections/support.php:30
+msgid "Take a look at why website speed is crucial and ways you can speed up WordPress so that you can confidently say you hold your own amongst the billions of web pages!"
+msgstr "Web sitesi hızının neden bu kadar hayati öneme sahip olduğuna ve WordPress'inizi hızlandırma yollarına bir göz atın ki sitenizin milyarlarca web sitesi arasında neden önemli bir yeri olduğunu gönül rahatlığıyla dile getirebilin."
+
+#: includes/libraries/welcome-screen/sections/support.php:28
+msgid "How to speed up WordPress"
+msgstr "WordPress nasıl hızlandırılır"
+
+#: includes/libraries/welcome-screen/sections/recommended-plugins.php:25
+msgid "Recommended"
+msgstr "Tavsiye edilen"
+
+#: includes/libraries/welcome-screen/sections/features.php:129
+msgid "Get The Pro Version Now!"
+msgstr "Şimdi Pro sürüme sahip olun!"
+
+#: includes/libraries/welcome-screen/sections/features.php:94
+msgid "Future feature updates "
+msgstr "Gelecek özellik güncellemeleri"
+
+#: includes/libraries/welcome-screen/sections/features.php:88
+msgid "Critical security updates "
+msgstr "Kritik güvenlik güncellemeleri"
+
+#: includes/libraries/welcome-screen/sections/features.php:78
+msgid "By upgrading to the PRO version you'll be able to add a: Description and Clients Columns"
+msgstr "PRO sürüme yükselterek açıklamalar ve müşteriler sütunlarını ekleyebileceksiniz"
+
+#: includes/libraries/welcome-screen/sections/features.php:77
+msgid "Extend the Clients Section "
+msgstr "Müşteriler alanını genişletin"
+
+#: includes/libraries/welcome-screen/sections/features.php:72
+msgid "By upgrading to the PRO version you'll be able to add a: Section Description and Testimonials Columns"
+msgstr "PRO sürüme yükselterek alan açıklaması ve deneyimler sütunlarını ekleyebileceksiniz "
+
+#: includes/libraries/welcome-screen/sections/features.php:71
+msgid "Extend the Testimonials Section "
+msgstr "Deneyimler alanını genişlet"
+
+#: includes/libraries/welcome-screen/sections/features.php:66
+msgid "By upgrading to the PRO version you'll be able to add a: Section Description and Team Columns"
+msgstr "PRO sürüme yükselterek alan açıklaması ve takım sütunlarını ekleyebileceksiniz "
+
+#: includes/libraries/welcome-screen/sections/features.php:65
+msgid "Extend the Team Members Section"
+msgstr "Takım üyeleri alanını genişlet"
+
+#: includes/libraries/welcome-screen/sections/features.php:60
+msgid "By upgrading to the PRO version you'll be able to add a: Section Description and Services Columns"
+msgstr "PRO sürüme yükselterek alan açıklaması ve hizmetler sütunlarını ekleyebileceksiniz "
+
+#: includes/libraries/welcome-screen/sections/features.php:59
+msgid "Extend the Services Section "
+msgstr "Hizmetler alanını genişlet"
+
+#: includes/libraries/welcome-screen/sections/features.php:54
+msgid "By upgrading to the PRO version you'll be able to add a: Section Description, Portfolio Columns & Related Portfolio Images"
+msgstr "PRO sürüme yükselterek alan açıklaması, portföy sütunları ve ilgili portföy görselleri ekleyebileceksiniz "
+
+#: includes/libraries/welcome-screen/sections/features.php:53
+msgid "Extend the Portfolio Section "
+msgstr "Portföy alanını genişlet"
+
+#: includes/libraries/welcome-screen/sections/features.php:48
+msgid "By upgrading to the PRO version you'll be able to add a: Section Description & Features Columns"
+msgstr "PRO sürüme yükselterek alan açıklaması ve özellikler sütunlarını ekleyebileceksiniz "
+
+#: includes/libraries/welcome-screen/sections/features.php:47
+msgid "Extend the Features Section"
+msgstr "Özellikler alanını genişlet"
+
+#: includes/libraries/welcome-screen/sections/features.php:36
+msgid "Want a different font family? No problem. Just an upgrade away."
+msgstr "Farklı bir yazı tipi ailesi mi istiyorsunuz? Hiç sorun değil. Yalnızca bir yükseltme uzaklıkta."
+
+#: includes/libraries/welcome-screen/sections/features.php:35
+msgid "Custom Typography Controls"
+msgstr "Özel tipografi denetimleri"
+
+#: includes/libraries/welcome-screen/sections/features.php:30
+msgid "Easily change your site's color schemes."
+msgstr "Sitenizin renk düzenini kolaylıkla değiştirin"
+
+#: includes/libraries/welcome-screen/sections/features.php:29
+msgid "Custom Color Schemes & Color Controls"
+msgstr "Özel renk düzenleri ve renk denetimleri"
+
+#: includes/libraries/welcome-screen/sections/features.php:24
+#: includes/libraries/welcome-screen/sections/features.php:42
+msgid "Re-order your site's front-page sections in any way you want."
+msgstr "Sitenizin ön sayfa alanlarını istediğiniz gibi yeniden düzenleyin."
+
+#: includes/libraries/welcome-screen/sections/features.php:18
+msgid "Create a WooCommerce powered shop. Supports WooCommerce v3.x and upwards"
+msgstr "WooCommerce destekli bir mağaza oluşturun. WooCommerce v3.x ve üzerini destekler"
+
+#: includes/libraries/welcome-screen/sections/features.php:17
+msgid "WooCommerce Support"
+msgstr "WooCommerce desteği"
+
+#: includes/libraries/welcome-screen/sections/features.php:12
+msgid "Add more slides, control the appearance & position of slides."
+msgstr "Daha fazla slayt ekleyin, slaytların görünümünü ve konumunu yönetin."
+
+#: includes/libraries/welcome-screen/sections/features.php:11
+msgid "Improved Slider Options"
+msgstr "Gelişmiş slayt gösterisi aracı seçenekleri"
+
+#. Translators: license sites, title, update link
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:65
+msgid "<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\" class=\"thickbox\" title=\"%4$s\">Check out what's new</a> or <a href=\"%5$s\"%6$s>update now</a>."
+msgstr "<strong>%1$s %2$s</strong> yayınlandı. <a href=\"%3$s\" class=\"thickbox\" title=\"%4$s\">Değişikliklere bakabilir</a> veya <a href=\"%5$s\"%6$s>hemen güncelleyebilirsiniz</a>."
+
+#. Translators: Update notice
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:63
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr "Bu temayı güncellemek yaptığınız tüm özelleştirmeleri kaybetmenize sebep olur. Durdurmak için 'İptal', güncellemek için 'Tamam' düğmesine basın."
+
+#. Translators: Inactive website
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:59
+msgid "Site is inactive."
+msgstr "Site atıl durumda."
+
+#. Translators: Disabled license
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:57
+msgid "License key is disabled."
+msgstr "Lisans anahtarı devre dışı."
+
+#. Translators: Inactive license
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:55
+msgid "License is inactive."
+msgstr "Lisans etkin değil."
+
+#. Translators: Match failed
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:53
+msgid "License keys do not match."
+msgstr "Lisans anahtarları eşleşmiyor."
+
+#. Translators: Expired License Key
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:51
+msgid "License key has expired."
+msgstr "Lisans anahtarının süresi sona ermiş."
+
+#. Translators: License expired
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:49
+msgid "License key expired %s."
+msgstr "Lisans anahtarı %s tarihinde geçerliliğini yitirdi."
+
+#. Translators: websites activated
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:47
+msgid "You have %1$s / %2$s sites activated."
+msgstr "%1$s / %2$s siteniz etkinleştirildi."
+
+#. Translators: expires
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:45
+msgid "Expires %s."
+msgstr "%s sona eriyor."
+
+#. Translators: Active key
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:43
+msgid "License key is active."
+msgstr "Lisans anahtarı etkin."
+
+#. Translators: Unlimited activations
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:41
+msgid "unlimited"
+msgstr "sınırsız"
+
+#. Translators: Renewal Label
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:39
+msgid "Renew?"
+msgstr "Yenile?"
+
+#. Translators: Unknown License Label
+#. Translators: Unknown license key
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:37
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:61
+msgid "License status is unknown."
+msgstr "Lisans durumu bilinmiyor."
+
+#. Translators: Activate License Label
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:35
+msgid "Activate License"
+msgstr "Lisansı Etkinleştir"
+
+#. Translators: Deactivate License Label
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:33
+msgid "Deactivate License"
+msgstr "Lisansı devre dışı bırak"
+
+#. Translators: Action
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:31
+msgid "License Action"
+msgstr "Lisans eylemi"
+
+#. Translators: License Key
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:29
+msgid "License Key"
+msgstr "Lisans anahtarı"
+
+#. Translators: Enter Key field label
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:27
+msgid "Enter your theme license key."
+msgstr "Tema lisans anahtarınızı girin."
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:800
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:610
+msgid "Deactivate now"
+msgstr "Şimdi devre dışı bırak"
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:604
+msgid "Activate now"
+msgstr "Şimdi etkinleştir"
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:583
+msgid "Install and Activate"
+msgstr "Kur ve Etkinleştir"
+
+#. Translators: Registration
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:538
+#: includes/libraries/welcome-screen/inc/class-edd-theme-helper.php:25
+msgid "Registration"
+msgstr "Kayıt"
+
+#. Translators: Welcome Screen Title.
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:433
+msgid "Welcome to %1$s - v"
+msgstr "%1$s - v sürümüne hoşgeldiniz"
+
+#. Translators: Menu Title
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:399
+msgid "About %1$s"
+msgstr "%1$s hakkında"
+
+#. Translators: Notice URL
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:380
+msgid "Get started with %1$s"
+msgstr "%1$s ile başlayın"
+
+#. Translators: Notice Title
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:369
+msgid "Welcome to %1$s"
+msgstr "%1$s temasına hoşgeldiniz"
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:306
+msgid "Activating"
+msgstr "Etkinleştiriliyor"
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-doubled.php:64
+msgid "Help"
+msgstr "Yardım"
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-doubled.php:51
+msgid "Press return or enter to open this section"
+msgstr "Bu bölümü açmak için enter tuşuna basın"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:323
+msgid "Letter Spacing"
+msgstr "Harf aralığı"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:614
+msgid "Integrations"
+msgstr "Entegrasyonlar"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:613
+msgid "Sections"
+msgstr "Bölümler"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:608
+msgid "The search results will be updated as you type."
+msgstr "Arama sonuçları siz yazdıkça güncellenecektir."
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:606
+msgid "Clear Results"
+msgstr "Sonuçları temizle"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:603
+msgid "Search sections &hellip;"
+msgstr "Arama bölümleri &hellip;"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:602
+msgid "Search sections"
+msgstr "Arama bölümleri"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:596
+msgid "Add a Section"
+msgstr "Bir bölüm ekle"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:507
+msgid "Column Group"
+msgstr "Sütun grubu"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:484
+msgid "Column Spacing"
+msgstr "Sütun aralığı"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:457
+msgid "Column Stretch"
+msgstr "Sütun genişlemesi"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:430
+msgid "Vertical Alignment"
+msgstr "Dikey hizalama"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:403
+msgid "Alignment"
+msgstr "Hizalama"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:375
+msgid "Initial"
+msgstr "Başlangıç"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:374
+msgid "Contain"
+msgstr "Doldur"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:373
+msgid "Cover"
+msgstr "Kapla"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:367
+msgid "Background Size"
+msgstr "Arka plan boyutu"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:358
+msgid "Bottom Right"
+msgstr "Alt sağ"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:357
+msgid "Bottom"
+msgstr "Alt"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:356
+msgid "Bottom Left"
+msgstr "Alt sol"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:355
+msgid "Right"
+msgstr "Sağ"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:354
+msgid "Center"
+msgstr "Merkez"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:353
+msgid "Left"
+msgstr "Sol"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:352
+msgid "Top Right"
+msgstr "Üst sağ"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:351
+msgid "Top"
+msgstr "Üst"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:350
+msgid "Top Left"
+msgstr "Üst sol"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:344
+msgid "Background Position"
+msgstr "Arka plan konumu"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:329
+msgid "Background Image"
+msgstr "Arka plan görseli"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:315
+msgid "Background Color"
+msgstr "Arka plan rengi"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:250
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-upsell.php:70
+msgid "See what's in the PRO version"
+msgstr "PRO sürümün neleri içerdiğini gör"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:290
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:591
+msgid "sections"
+msgstr "bölümler"
+
+#. Translators: Section limit
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:290
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-section-repeater.php:590
+msgid "Limit: "
+msgstr "Sınır:"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-layouts.php:201
+msgid "Edit column size"
+msgstr "Sütun boyutunu düzenle"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:122
+msgid "Default"
+msgstr "Varsayılan"
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:377
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-color-picker.php:82
+msgid "(clear)"
+msgstr "(temizle)"
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:288
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:126
+msgid "Select File"
+msgstr "Dosya seç"
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:278
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:112
+msgid "Recommended resolution:"
+msgstr "Önerilen çözünürlük:"
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:84
+msgid "Styles"
+msgstr "Biçimler"
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:81
+msgid "Fields"
+msgstr "Alanlar"
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:57
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:129
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-doubled.php:56
+msgid "Close"
+msgstr "Kapat"
+
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-color-coded-categories.php:112
+msgid "This color will affect category related elements such as links, titles, etc. (defined by your theme)"
+msgstr "Bu renk, bağlantılar, başlıklar, vb. (temanız tarafından belirlenen) kategoriye ilişkin öğeleri etkileyecektir"
+
+#: includes/libraries/epsilon-framework/classes/class-epsilon-customizer.php:479
+msgid "Customize"
+msgstr "Özelleştir"
+
+#: includes/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:61
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:219
+msgid "Class does not exist"
+msgstr "Böyle bir sınıf yok"
+
+#: includes/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:37
+#: includes/libraries/epsilon-framework/classes/class-epsilon-ajax-controller.php:50
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:195
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:208
+msgid "Not allowed"
+msgstr "İzin verilmiyor"
+
+#. Translators: %s is the plugin name
+#: includes/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:129
+msgid "Please activate %s in order to create the demo content."
+msgstr "Demo içeriğini oluşturabilmek için lütfen %s eklentisini etkinleştirin."
+
+#. Translators: %s is the plugin name
+#: includes/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:127
+msgid "Activate: %s"
+msgstr "Etkinleştir: %s"
+
+#. Translators: %s is the plugin name.
+#: includes/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:123
+msgid "Please install %s in order to create the demo content."
+msgstr "Demo içeriğini oluşturabilmek için lütfen %s eklentisini kurun. "
+
+#. Translators: %s is the plugin name.
+#: includes/libraries/epsilon-framework/classes/backend/class-epsilon-notify-system.php:121
+msgid "Install: %s"
+msgstr "Kur: %s"
+
+#: includes/libraries/epsilon-framework/classes/backend/class-epsilon-content-backup.php:221
+msgid "This page contains the content created by the customizer."
+msgstr "Bu sayfada özelleştirici tarafından oluşturulan içerik yer alır."
+
+#: includes/libraries/epsilon-framework/class-epsilon-framework.php:259
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:242
+msgid "Row"
+msgstr "Satır"
+
+#: includes/libraries/epsilon-framework/class-epsilon-framework.php:258
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:276
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:110
+msgid "Upload image"
+msgstr "Görsel yükle"
+
+#: includes/libraries/epsilon-framework/class-epsilon-framework.php:257
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-repeater.php:101
+msgid "Add"
+msgstr "Ekle"
+
+#: includes/libraries/epsilon-framework/class-epsilon-framework.php:256
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:56
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:128
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:284
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-image.php:118
+msgid "Remove"
+msgstr "Kaldır"
+
+#: includes/class-cpo-theme.php:153
+msgid "Demo Content"
+msgstr "Demo içeriği"
+
+#: includes/class-cpo-theme.php:145
+msgid "Plugins"
+msgstr "Eklentiler"
+
+#: includes/class-cpo-theme.php:134
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: includes/class-cpo-theme.php:124
+msgid "Modula Gallery"
+msgstr "Modula galerisi"
+
+#: includes/class-cpo-theme.php:123
+msgid "CPO Companion"
+msgstr "CPO Companion"
+
+#: includes/class-cpo-theme.php:118
+msgid "Import Content"
+msgstr "İçeriği içeri aktar"
+
+#: includes/class-cpo-theme.php:41
+msgid "It is highly recommended that you install the Modula plugin."
+msgstr "Modula eklentisini kurmanız şiddetle tavsiye edilir."
+
+#: includes/class-cpo-theme.php:40
+msgid "Activate: Modula"
+msgstr "Etkinleştir: Modula"
+
+#: includes/class-cpo-theme.php:40
+msgid "Install: Modula"
+msgstr "Kur: Modula"
+
+#: includes/class-cpo-theme.php:33
+msgid "Activate: CPO Companion"
+msgstr "Etkinleştir: CPO Companion"
+
+#: includes/class-cpo-theme.php:33
+msgid "Install: CPO Companion"
+msgstr "Kur: CPO Companion"
+
+#: includes/class-cpo-theme.php:27
+msgid "Clicking the button below will add content, widgets and set static front page to your WordPress installation. Click advanced to customize the import process. This procces might take up to 1 min. Please don't close the window."
+msgstr "Aşağıdaki tuşa tıkladığınızda WordPress kurulumunuza içerik ve bileşenler eklenip anasayfanız statik bir sayfa olarak ayarlanacaktır. Bu içeri aktarma sürecini özelliştirmek için Gelişmiş tuşuna basın. İşlemler yaklaşık 1 dakika kadar sürebilir. Lütfen pencereyi kapatmayın."
+
+#: includes/class-cpo-theme.php:26 includes/class-cpo-theme.php:131
+#: includes/class-cpo-theme.php:133
+msgid "Import Demo Content"
+msgstr "Demo içeriğini içeri aktar"
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:287
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:353
+msgid "Update"
+msgstr "Güncelle"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:314
+msgid "Line Height"
+msgstr "Satır yüksekliği"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:305
+msgid "Font Size"
+msgstr "Yazı tipi boyutu"
+
+#: includes/libraries/epsilon-framework/customizer/controls/class-epsilon-control-typography.php:272
+msgid "Theme default"
+msgstr "Tema varsayılanı"
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:532
+msgid "Lite VS PRO"
+msgstr "Lite ile PRO sürüm kıyaslaması"
+
+#: includes/libraries/welcome-screen/sections/features.php:106
+msgid "PRO"
+msgstr "PRO"
+
+#: includes/libraries/welcome-screen/sections/features.php:105
+msgid "Lite"
+msgstr "Lite"
+
+#: includes/libraries/welcome-screen/sections/features.php:44
+msgid "Improved"
+msgstr "İyileştirilmiş"
+
+#: includes/libraries/welcome-screen/sections/features.php:43
+msgid "Minimal"
+msgstr "En düşük"
+
+#: includes/libraries/welcome-screen/sections/features.php:41
+msgid "Tagline"
+msgstr "Slogan"
+
+#: includes/libraries/welcome-screen/sections/features.php:23
+msgid "Reorder Homepage Sections"
+msgstr "Anasayfa bölümlerini yeniden sırala"
+
+#: core/metadata/data_customizer.php:33
+msgid "Learn more"
+msgstr "Daha fazlasını öğrenin"
+
+#: core/metadata/data_customizer.php:185 core/metadata/data_customizer.php:227
+#: core/metadata/data_customizer.php:260 core/metadata/data_customizer.php:291
+#: core/metadata/data_customizer.php:322 core/metadata/data_customizer.php:353
+#: core/metadata/data_customizer.php:384 core/metadata/data_customizer.php:430
+msgid "See PRO vs Lite"
+msgstr "PRO ile Lite arasındaki farkları görün"
+
+#: core/metadata/data_customizer.php:32
+msgid "LITE vs PRO comparison"
+msgstr "LITE ile PRO kıyaslaması"
+
+#: core/metadata/data_customizer.php:381
+msgid "You can select on how many Columns you want to show your clients."
+msgstr "Kaç sütunda müşterilerinizi göstermek istediğinizi seçebilirsiniz."
+
+#: core/metadata/data_customizer.php:377
+msgid "Clients Columns"
+msgstr "Müşteriler sütunları"
+
+#: core/metadata/data_customizer.php:350
+msgid "You can select on how many Columns you want to show your testimonials."
+msgstr "Kaç sütunda deneyimlerinizi göstermek istediğinizi seçebilirsiniz."
+
+#: core/metadata/data_customizer.php:346
+msgid "Testimonials Columns"
+msgstr "Deneyimler sütunları"
+
+#: core/metadata/data_customizer.php:319
+msgid "You can select on how many Columns you want to show your team members."
+msgstr "Kaç sütunda takım üyelerinizi göstermek istediğinizi seçebilirsiniz."
+
+#: core/metadata/data_customizer.php:315
+msgid "Team Columns"
+msgstr "Takım sütunları"
+
+#: core/metadata/data_customizer.php:288
+msgid "You can select on how many Columns you want to show your services."
+msgstr "Kaç sütunda hizmetlerinizi göstermek istediğinizi seçebilirsiniz."
+
+#: core/metadata/data_customizer.php:284
+msgid "Services Columns"
+msgstr "Hizmetler sütunları"
+
+#: core/metadata/data_customizer.php:257
+msgid "You can enable related portfolio."
+msgstr "İlgili portföyü etkinleştirebilirsiniz."
+
+#: core/metadata/data_customizer.php:256
+msgid "You can select on how many Columns you want to show your portfolio."
+msgstr "Kaç sütunda portföyünüzü göstermek istediğinizi seçebilirsiniz."
+
+#: core/metadata/data_customizer.php:252
+msgid "Related Portfolios"
+msgstr "İlgili portföyler"
+
+#: core/metadata/data_customizer.php:251
+msgid "Portfolio Columns"
+msgstr "Portföy sütunları"
+
+#: core/metadata/data_customizer.php:222
+msgid "You can select on how many Columns you want to show your features."
+msgstr "Kaç sütunda özelliklerinizi göstermek istediğinizi seçebilirsiniz."
+
+#: core/metadata/data_customizer.php:218
+msgid "Features Columns"
+msgstr "Özellikler sütunları"
+
+#: core/metadata/data_customizer.php:187 core/metadata/data_customizer.php:225
+#: core/metadata/data_customizer.php:229 core/metadata/data_customizer.php:262
+#: core/metadata/data_customizer.php:293 core/metadata/data_customizer.php:324
+#: core/metadata/data_customizer.php:355 core/metadata/data_customizer.php:386
+#: core/metadata/data_customizer.php:432
+msgid "Get the PRO version!"
+msgstr "PRO sürümü alın!"
+
+#: core/metadata/data_customizer.php:427
+msgid "You can change your site's colors directly from Customizer. Changes happen in real time."
+msgstr "Sitenizin renklerini Özelleştirici ile doğrudan değiştirebilirsiniz. Değişiklikler gerçek zamanlı olarak uygulanır."
+
+#: core/metadata/data_customizer.php:221 core/metadata/data_customizer.php:255
+#: core/metadata/data_customizer.php:287 core/metadata/data_customizer.php:318
+#: core/metadata/data_customizer.php:349 core/metadata/data_customizer.php:380
+msgid "For each section, apart from title one you can also add a description for users to better understand your sections content"
+msgstr "Kullanıcıların, bölümlerinizin içeriğini daha iyi anlayabilmeleri için başlıktan ayrı olarak her bir bölüm için ayrıca bir açıklama ekleyebilirsiniz"
+
+#: core/metadata/data_customizer.php:182
+msgid "You can order Homepage sections anyway you want"
+msgstr "Anasayfa bölümlerini istediğiniz şekilde sıralayabilirsiniz"
+
+#: core/metadata/data_customizer.php:181
+msgid "In the PRO version of Allegiant, the tagline transforms in a CTA section with buttons and descriptions."
+msgstr "Allegiant'ın PRO sürümünde site sloganı, butonlar ve açıklamalar içeren bir eylem çağrısı alanına dönüşür."
+
+#: includes/libraries/welcome-screen/sections/features.php:83
+msgid "Dedicated Support Team"
+msgstr "Tam zamanlı destek ekibi"
+
+#: core/metadata/data_customizer.php:424
+msgid "Custom Colors"
+msgstr "Özel renkler"
+
+#: core/metadata/data_customizer.php:217 core/metadata/data_customizer.php:250
+#: core/metadata/data_customizer.php:283 core/metadata/data_customizer.php:314
+#: core/metadata/data_customizer.php:345 core/metadata/data_customizer.php:376
+msgid "Section Description"
+msgstr "Bölüm açıklaması"
+
+#: core/metadata/data_customizer.php:178
+msgid "Reorder Sections"
+msgstr "Bölümleri yeniden sırala"
+
+#: core/metadata/data_customizer.php:177
+msgid "Improved Tagline"
+msgstr "İyileştirilmiş slogan"
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:18
+msgid "Check recommended actions"
+msgstr "Tavsiye edilen eylemleri kontrol et"
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:36
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "WordPress Özelleştiricisini kullanarak temanıza ait tüm görünümleri kolaylıkla özelleştirebilirsiniz."
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:38
+msgid "Go to Customizer"
+msgstr "Özelleştiriciye git"
+
+#: includes/libraries/welcome-screen/sections/support.php:15
+msgid "Documentation"
+msgstr "Belgeler"
+
+#: includes/class-cpo-theme.php:98
+msgid "Recomended Actions"
+msgstr "Önerilen eylemler"
+
+#: includes/class-cpo-theme.php:99
+msgid "We are social"
+msgstr "Biz sosyaliz"
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:508
+msgid "Getting Started"
+msgstr "Başlarken"
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:526
+msgid "Support"
+msgstr "Destek"
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:291
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:357
+msgid "Deactivate"
+msgstr "Etkisizleştir"
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:118
+msgid "Review this theme on w.org"
+msgstr "Bu temayı w.org'da değerlendir"
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:12
+msgid "We've compiled a list of steps for you, to take make sure the experience you'll have using one of our products is very easy to follow."
+msgstr "Ürünlerimizden birini kullanırken edineceğiniz tecrübeyi olabildiğince kolaylaştırabilmek adına sizin için birkaç adımdan oluşan bir liste derledik."
+
+#. Translators: Welcome Screen Description.
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:439
+msgid "%1$s is now installed and ready to use! Get ready to build something beautiful. We hope you enjoy it! We want to make sure you have the best experience using %1$s and that is why we gathered here all the necessary information for you. We hope you will enjoy using %1$s, as much as we enjoy creating great products."
+msgstr "%1$s artık kuruldu ve kullanıma hazır! Güzel şeyler oluşturmaya hazır olun. Umarız keyif alırsınız! %1$s kullanıcısı olarak en iyi deneyimi yaşayabilmeniz adına tüm gerekli bilgileri burada topladık. Umarız bizim güzel ürünler üretirken keyif aldığımız gibi siz de %1$s kullanırken keyif alırsınız."
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:279
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:345
+msgid "Install"
+msgstr "Kur"
+
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:283
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:349
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:304
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:308
+#: includes/libraries/welcome-screen/sections/recommended-actions.php:78
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Yaşasın! Şu an yapmanız gereken bir eylem yok. "
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:15
+msgid "No recommended actions left to perform"
+msgstr "Yapılması önerilen bir eylem yok"
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:11
+msgid "Step 1 - Implement recommended actions"
+msgstr "1. Adım - Önerilen eylemleri uygulayın"
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:26
+msgid "Step 2 - Check our documentation"
+msgstr "2. Adım - Belgelerimize bakın"
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:27
+msgid "Even if you're a long-time WordPress user, we still believe you should give our documentation a very quick Read."
+msgstr "WordPress'i uzun süredir kullanıyor olsanız da belgelerimize kısaca bir göz atmanız gerektiğine inanıyoruz."
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:30
+msgid "Full documentation"
+msgstr "Tüm belgeler"
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:35
+msgid "Step 3 - Customize everything"
+msgstr "Adım 3 - Her şeyi özelleştir"
+
+#: includes/libraries/welcome-screen/sections/recommended-plugins.php:29
+msgid "Version:"
+msgstr "Sürüm:"
+
+#: includes/libraries/welcome-screen/sections/support.php:5
+#: includes/libraries/welcome-screen/sections/support.php:10
+msgid "Contact Support"
+msgstr "Destek birimine başvurun"
+
+#: includes/libraries/welcome-screen/sections/support.php:7
+msgid "We offer excellent support through our advanced ticketing system. Make sure to register your purchase before contacting support!"
+msgstr "Gelişmiş sorun bildirme sistemimizle mükemmel destek sunuyoruz. Destek birimiyle iletişime geçmeden önce yaptığınız satın alım işlemini sisteme kaydettiğinizden emin olun!"
+
+#: includes/libraries/welcome-screen/sections/support.php:17
+msgid "This is the place to go to reference different aspects of the theme. Our online documentation is an incredible resource for learning the ins and outs of using Allegiant."
+msgstr "Burası, temanın farklı yönlerine atıfta bulunan yerdir. Çevrimiçi belgelerimiz Allegiant'ı kullanmanın ayrıntılarını öğrenmek için inanılmaz bir kaynaktır."
+
+#: includes/libraries/welcome-screen/sections/support.php:20
+msgid "See our full documentation"
+msgstr "Tam belgelendirmemizi görün"
+
+#: includes/class-cpo-theme.php:100
+msgid "Recomended Plugins"
+msgstr "Önerilen eklentiler"
+
+#: includes/class-cpo-theme.php:119
+msgid "Import Widgets"
+msgstr "Bileşenleri içeri aktar"
+
+#. Translators: Notice
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:373
+msgid "Welcome! Thank you for choosing %3$s! To fully take advantage of the best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr "Hoşgeldiniz! %3$s temasını seçtiğiniz için teşekkürler! Temamızın sunabileceği tüm özelliklerden faydalanabilmek için %1$shoşgeldin sayfası%2$snı ziyaret ettiğinizden emin olun."
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:514
+msgid "Recommended Actions"
+msgstr "Önerilen eylemler"
+
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:520
+msgid "Recommended Plugins"
+msgstr "Önerilen eklentiler"
+
+#: core/metadata/data_customizer.php:394
+msgid "Featured clients"
+msgstr "Öne çıkan müşteriler"
+
+#: core/metadata/data_customizer.php:390
+msgid "Clients Description"
+msgstr "Müşteri açıklamaları"
+
+#: includes/class-cpo-theme.php:34
+msgid "It is highly recommended that you install the CPO Content Types plugin. It will help you manage all the special content types that this theme supports."
+msgstr "CPO Content Types eklentisini kurmanız şiddetle tavsiye edilir. Bu temanın desteklediği tüm özel içeriği yönetmenize yardımcı olur."
+
+#: core/markup.php:432
+msgid "No results were found. Please try searching with different terms."
+msgstr "Hiçbir sonuç bulunamadı. Lütfen farklı terimlerle aramayı deneyin."
+
+#: core/markup.php:203
+msgid "<a href=\"%1$s\">%2$s</a> theme by CPOThemes."
+msgstr "<a href=\"%1$s\">%2$s</a> bir CPOThemes temasıdır."
+
+#. Template Name of the plugin/theme
+msgid "Team"
+msgstr "Takım"
+
+#: core/metadata/data_metaboxes.php:122
+msgid "Specifies whether this item is featured in the homepage."
+msgstr "Bu öğenin anasayfada öne çıkarılıp çıkarılmayacağını belirler."
+
+#: core/metadata/data_metaboxes.php:121
+msgid "Show In Homepage"
+msgstr "Anasayfada göster"
+
+#: core/metadata/data_metaboxes.php:105
+msgid "Specifies whether this member appears in the homepage."
+msgstr "Bu üyenin anasayfada gösterilip gösterilmeyeceğini belirler."
+
+#: core/metadata/data_metaboxes.php:104
+msgid "Featured Member"
+msgstr "Öne çıkan üye"
+
+#: core/metadata/data_metaboxes.php:88
+msgid "Sets an icon to be used as the service preview."
+msgstr "Hizmet önizlemesi olarak kullanılacak bir simge ayarlar."
+
+#: core/metadata/data_metaboxes.php:87
+msgid "Service Icon"
+msgstr "Hizmet simgesi"
+
+#: core/metadata/data_metaboxes.php:46 core/metadata/data_metaboxes.php:63
+#: core/metadata/data_metaboxes.php:80
+msgid "Specifies whether this item appears in the homepage."
+msgstr "Bu öğenin anasayfada gösterilip gösterilmeyeceğini belirler. "
+
+#: core/metadata/data_metaboxes.php:45 core/metadata/data_metaboxes.php:62
+#: core/metadata/data_metaboxes.php:79
+msgid "Featured Item"
+msgstr "Öne çıkan öğe"
+
+#: core/metadata/data_metaboxes.php:29
+msgid "Sets an icon to be used as the featured element."
+msgstr "Bir simgeyi öne çıkan öğe olarak kullanılmak üzere ayarlar."
+
+#: core/metadata/data_metaboxes.php:28
+msgid "Feature Icon"
+msgstr "Özellik simgesi"
+
+#: core/metadata/data_metaboxes.php:11
+msgid "Determines the location of the sidebar by default."
+msgstr "Kenar çubuğunun konumunu varsayılan olarak belirler."
+
+#: core/metadata/data_metaboxes.php:10
+msgid "Sidebar Position"
+msgstr "Yanmenü pozisyonu"
+
+#: core/metadata/data_general.php:42
+msgid "In The Featured Boxes"
+msgstr "Öne çıkanlar kutusunda"
+
+#: core/metadata/data_general.php:41
+msgid "In The Slider"
+msgstr "Slayt gösterisi aracında"
+
+#: core/metadata/data_general.php:40
+msgid "None"
+msgstr "Boş"
+
+#: core/metadata/data_general.php:32
+msgid "Boxed"
+msgstr "Sabit Genişlik"
+
+#: core/metadata/data_general.php:31
+msgid "Full Width"
+msgstr "Tam Sayfa"
+
+#: core/metadata/data_customizer.php:437
+msgid "Customize the colors of primary and secondary elements, as well as headings, navigation, and text."
+msgstr "Birincil ve ikincil öğelere ilaveten başlık, menü ve metinlere ait renkleri özelleştirin."
+
+#: core/metadata/data_customizer.php:436
+msgid "Color Options"
+msgstr "Renk Seçenekleri"
+
+#: core/metadata/data_customizer.php:413
+msgid "Select custom fonts for the headings, navigation, and body text of your site."
+msgstr "Sitenizin başlık, menü ve içerik metinlerine ait özel yazı tipleri seçin."
+
+#: core/metadata/data_customizer.php:412
+msgid "Typography Options"
+msgstr "Tipografi seçenekleri"
+
+#: core/metadata/data_customizer.php:403
+msgid "Enable Posts On Homepage"
+msgstr "Anasayfada yazıları etkinleştir"
+
+#: core/metadata/data_customizer.php:363
+msgid "What they say about us"
+msgstr "Hakkımızda ne dediler"
+
+#: core/metadata/data_customizer.php:359
+msgid "Testimonials Description"
+msgstr "Deneyim açıklamaları"
+
+#: core/metadata/data_customizer.php:332
+msgid "Meet our team"
+msgstr "Takımımızla tanışın"
+
+#: core/metadata/data_customizer.php:328
+msgid "Team Members Description"
+msgstr "Takım üyeleri açıklaması"
+
+#: core/metadata/data_customizer.php:301
+msgid "What we can offer you"
+msgstr "Size neler sunabiliriz"
+
+#: core/metadata/data_customizer.php:297
+msgid "Services Description"
+msgstr "Hizmetler açıklamaları"
+
+#: core/metadata/data_customizer.php:270
+msgid "Take a look at our work"
+msgstr "Yaptıklarımıza bir göz atın"
+
+#: core/metadata/data_customizer.php:266
+msgid "Portfolio Description"
+msgstr "Portföy açıklaması"
+
+#: core/metadata/data_customizer.php:237
+msgid "Our core features"
+msgstr "Temel özelliklerimiz"
+
+#: core/metadata/data_customizer.php:233
+msgid "Features Description"
+msgstr "Özellikler açıklamaları"
+
+#: core/metadata/data_customizer.php:205
+msgid "Customize the speed, timeout and effects of the homepage slider."
+msgstr "Slayt gösterisi aracının hız, görüntüleme süresi ve efektlerini özelleştirin."
+
+#: core/metadata/data_customizer.php:204
+msgid "Slider Options"
+msgstr "Slayt Seçenekleri"
+
+#: core/metadata/data_customizer.php:195
+msgid "Add your custom tagline here."
+msgstr "Kendi özel etiket satırınızı buraya ekleyin."
+
+#: core/metadata/data_customizer.php:191
+msgid "Tagline Title"
+msgstr "Slogan başlığı"
+
+#: core/metadata/data_customizer.php:165
+msgid "Activate this to display the site title as text."
+msgstr "Site başlığını metin olarak göstermek için bunu etkinleştirin."
+
+#: core/metadata/data_customizer.php:164
+msgid "Enable Text Title"
+msgstr "Site başlığını etkinleştir"
+
+#: core/metadata/data_customizer.php:155
+msgid "Forces the logo to have a specified width."
+msgstr "Logonun belirtilen genişliğe sahip olması için zorlar."
+
+#: core/metadata/data_customizer.php:154
+msgid "Logo Width (px)"
+msgstr "Logo genişliği (piksel)"
+
+#: core/metadata/data_customizer.php:146
+msgid "Insert the URL of an image to be used as a custom logo."
+msgstr "Özel logo olarak kullanılmak üzere bir adres ekleyin."
+
+#: core/metadata/data_customizer.php:145
+msgid "Custom Logo"
+msgstr "Özel Logo"
+
+#: core/metadata/data_customizer.php:123
+msgid "Blog Posts"
+msgstr "Blog Yazıları"
+
+#: core/metadata/data_customizer.php:117
+msgid "Custom typefaces for the entire site."
+msgstr "Sitenin tamamında kullanılacak özel yazı biçimleri."
+
+#: core/metadata/data_customizer.php:116 core/metadata/data_customizer.php:130
+msgid "Typography"
+msgstr "Tipografi"
+
+#: core/metadata/data_customizer.php:108
+msgid "Clients"
+msgstr "Müşteriler"
+
+#: core/metadata/data_customizer.php:99
+msgid "Testimonials"
+msgstr "Görüşler"
+
+#: core/metadata/data_customizer.php:90
+msgid "Team Members"
+msgstr "Takım üyeleri"
+
+#. #-#-#-#-#  allegiant.pot (Allegiant 1.2.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: core/metadata/data_customizer.php:81
+msgid "Services"
+msgstr "Hizmetler"
+
+#. #-#-#-#-#  allegiant.pot (Allegiant 1.2.0)  #-#-#-#-#
+#. Template Name of the plugin/theme
+#: core/metadata/data_customizer.php:72
+msgid "Portfolio"
+msgstr "Portfolyo"
+
+#: core/metadata/data_customizer.php:63
+msgid "Features"
+msgstr "Features"
+
+#: core/metadata/data_customizer.php:54
+msgid "Slider"
+msgstr "Slider"
+
+#: core/metadata/data_customizer.php:46
+#: includes/libraries/welcome-screen/class-epsilon-welcome-screen.php:787
+msgid "Homepage"
+msgstr "Ana Sayfa"
+
+#: core/metadata/data_customizer.php:39
+msgid "Site Wide Structure"
+msgstr "Kapsamlı site yapısı"
+
+#: core/metadata/data_customizer.php:10
+msgid "Options that help you manage your theme better."
+msgstr "Temanızı daha iyi yönetmenize yardımcı olan seçenekler."
+
+#: core/metadata/data_customizer.php:9
+msgid "General Theme Options"
+msgstr "Genel tema seçenekleri"
+
+#: core/metadata/data_customizer.php:16
+msgid "Here you can find settings that control the structure and positioning of specific elements within your website."
+msgstr "Burada sitenizdeki belirli öğelerin yapısını ve konumunu denetleyen seçenekleri bulabilirsiniz."
+
+#: core/metadata/data_customizer.php:15
+#: includes/libraries/epsilon-framework/classes/output/class-epsilon-repeater-templates.php:87
+msgid "Layout"
+msgstr "Görünüm"
+
+#: core/metaboxes.php:78
+msgid "Upgrade to %s to add descriptions to testimonials."
+msgstr "Deneyimlere açıklama eklemek için %s sürümüne yükseltin."
+
+#: core/metaboxes.php:75
+msgid "Upgrade to %s to add descriptions and social links to team members."
+msgstr "Takım üyelerine açıklama ve sosyal medya bağlantıları eklemek için %s sürümüne yükseltin. \t"
+
+#: core/metaboxes.php:71
+msgid "Upgrade to %s to link client items to a URL."
+msgstr "Müşteri öğelerine bağlantı eklemek için %s sürümüne yükseltin."
+
+#: core/metaboxes.php:68
+msgid "Upgrade to %s to control the layout of services and access multiple icon libraries."
+msgstr "Hizmetlere ait görünümü düzenleyebilmek ve çoklu simge kütüphanesine erişmek için %s sürümüne yükseltin."
+
+#: core/metaboxes.php:64
+msgid "Upgrade to %s to control the layout of products and access multiple icon libraries."
+msgstr "Ürünlere ait görünümü düzenleyebilmek ve çoklu simge kütüphanesine erişmek için %s sürümüne yükseltin. "
+
+#: core/metaboxes.php:60
+msgid "Upgrade to %s to control the layout of portfolio items."
+msgstr "Portföy öğelerine ait görünümü düzenleyebilmek için %s sürümüne yükseltin. "
+
+#: core/metaboxes.php:56
+msgid "Upgrade to %s to control the linking of feature blocks and access multiple icon libraries."
+msgstr "Özellik bloklarının bağlantılarını düzenleyebilmek ve çoklu simge kütüphanesine erişmek için %s sürümüne yükseltin."
+
+#: core/metaboxes.php:52
+msgid "Upgrade to %s to control the position and appearance of slides, as well as adding a foreground image."
+msgstr "Slaytların konum ve görünümlerini düzenleyip aynı zamanda ön plan görselleri ekleyebilmek için %s sürümüne yükseltin."
+
+#: core/metaboxes.php:49
+msgid "Upgrade to %s for multiple sidebar layouts, control over the header/title/footer, and integration with Revolution Slider."
+msgstr "Çoklu kenar çubuğu görünümü, sayfa başlığı/site ismi/alt kısım ve Revolution slayt gösterici aracıyla entegrasyon için %s sürümüne yükseltin. "
+
+#: core/metaboxes.php:42
+msgid "Page Options"
+msgstr "Sayfa seçenekleri"
+
+#: core/metaboxes.php:41
+msgid "Post Options"
+msgstr "Yazı Seçenekleri"
+
+#: core/metaboxes.php:37
+msgid "Testimonial Options"
+msgstr "Deneyimler seçenekleri"
+
+#: core/metaboxes.php:34
+msgid "Member Options"
+msgstr "Üye seçenekleri"
+
+#: core/metaboxes.php:31
+msgid "Client Options"
+msgstr "Müşteri seçenekleri"
+
+#: core/metaboxes.php:28
+msgid "Service Options"
+msgstr "Hizmet seçenekleri"
+
+#: core/metaboxes.php:25
+msgid "Product Options"
+msgstr "Ürün Ayarları"
+
+#: core/metaboxes.php:22
+msgid "Portfolio Options"
+msgstr "Portföy Seçenekleri"
+
+#: core/metaboxes.php:19
+msgid "Feature Options"
+msgstr "Özellik seçenekleri"
+
+#: core/metaboxes.php:16
+msgid "Slide Options"
+msgstr "Slayt seçenekleri"
+
+#: core/metaboxes.php:12 core/metaboxes.php:123
+msgid "Layout Options"
+msgstr "Yerleşim Seçenekleri"
+
+#: core/markup.php:984
+msgid "Newer"
+msgstr "daha yeni"
+
+#: core/markup.php:981
+msgid "Older"
+msgstr "daha eski"
+
+#: core/markup.php:953
+msgid "Your comment is awaiting approval."
+msgstr "Yorumunuz onay bekliyor."
+
+#: core/markup.php:946
+msgid "%1$s at %2$s"
+msgstr "%1$s tarihinde, saat %2$s"
+
+#: core/markup.php:906
+msgid "%s comments"
+msgstr "%s yorum"
+
+#: core/markup.php:904
+msgid "One comment"
+msgstr "Bir yorum"
+
+#: core/markup.php:888
+msgid "This page is protected. Please type the password to be able to read its contents."
+msgstr "Bu sayfa korunmaktadır. İçeriğini okuyabilmek için lütfen parolayı girin."
+
+#: core/markup.php:678 core/markup.php:680
+msgid "Last"
+msgstr "Son"
+
+#: core/markup.php:662 core/markup.php:664
+msgid "First"
+msgstr "Adınız"
+
+#: core/markup.php:602
+msgid "Google+"
+msgstr "Google+"
+
+#: core/markup.php:598
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:116
+msgid "Twitter"
+msgstr "Twiiter"
+
+#: core/markup.php:594
+#: includes/libraries/epsilon-framework/customizer/sections/class-epsilon-section-recommended-actions.php:114
+msgid "Facebook"
+msgstr "Facebook"
+
+#: core/markup.php:590
+msgid "Website"
+msgstr "Websayfanız"
+
+#: core/markup.php:562
+msgid "Read More"
+msgstr "Fazlasını Oku"
+
+#: core/markup.php:537
+msgid "%1$s Comments"
+msgstr "%1$s yorum"
+
+#: core/markup.php:535
+msgid "One Comment"
+msgstr "Bir yorum"
+
+#: core/markup.php:533
+msgid "No Comments"
+msgstr "Yorum Yapılmamış"
+
+#: core/markup.php:501
+msgid "View all posts by %s"
+msgstr "%s tarafından yazılan tüm yazılar"
+
+#: core/markup.php:444 core/markup.php:460
+msgid "Go to %s"
+msgstr "%s kısmına git"
+
+#: core/markup.php:427
+msgid "Search"
+msgstr "Ara"
+
+#: core/markup.php:404
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#: core/markup.php:389
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+#: core/markup.php:236
+msgid "Post Tags"
+msgstr "Yazı Etiketleri"
+
+#: core/markup.php:234
+msgid "Post Categories"
+msgstr "Posta Kategorileri"
+
+#: core/markup.php:228
+msgid "Pages"
+msgstr "Sayfalar"
+
+#: core/markup.php:177
+msgid "The requested page could not be found. It could have been deleted or changed location. Try searching for it using the search function."
+msgstr "İstenilen sayfa bulunamadı. Silinmiş veya konumu değiştirilmiş olabilir. Arama işlevini kullanarak bulmayı deneyin."
+
+#: core/markup.php:95 core/markup.php:929 core/markup.php:968
+msgid "Edit"
+msgstr "Düzelt"
+
+#: core/markup.php:26
+msgid "Search Results for"
+msgstr "Için Arama Sonuçları"
+
+#: core/markup.php:24 core/markup.php:402
+msgid "Page Not Found"
+msgstr "Sayfa bulunamadı"
+
+#: core/markup.php:22
+msgid "Archive"
+msgstr "Arşiv"
+
+#: core/layout.php:67
+msgid "Footer Menu"
+msgstr "Site Altı Menüsü"
+
+#: core/layout.php:66
+msgid "Main Menu"
+msgstr "Ana menü"
+
+#: core/layout.php:65
+msgid "Top Menu"
+msgstr "Üst Menü"
+
+#: core/layout.php:49
+msgid "Shown in the footer area."
+msgstr "Alt kısımda gösterilir."
+
+#: core/layout.php:48
+msgid "Footer Widgets"
+msgstr "Footer Bileşenleri"
+
+#: core/layout.php:32
+msgid "Shown in pages with more than one sidebar."
+msgstr "Birden fazla kenar çubuğu olan sayfalarda gösterilir."
+
+#: core/layout.php:30
+msgid "Secondary Widgets"
+msgstr "İkincil bileşenler"
+
+#: core/layout.php:20
+msgid "Sidebar shown in all standard pages by default."
+msgstr "Varsayılan olarak tüm standart sayfalarda gösterilen kenar çubuğu."
+
+#: core/layout.php:18
+msgid "Default Widgets"
+msgstr "Varsayılan bileşenler"
+
+#: core/init.php:21
+msgid "Premium Version"
+msgstr "Premium sürüm"
+
+#: core/forms.php:44
+msgid "No"
+msgstr "Yok"
+
+#: core/forms.php:39
+msgid "Yes"
+msgstr "Evet"
+
+#: core/filters.php:72
+msgid "Portfolio Size"
+msgstr "Portföy boyutu"
+
+#. Author URI of the plugin/theme
+msgid "https://cpothemes.com"
+msgstr "https://cpothemes.com"
+
+#. Author of the plugin/theme
+msgid "CPOThemes"
+msgstr "CPOThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://cpothemes.com/theme/allegiant"
+msgstr "https://cpothemes.com/theme/allegiant"
