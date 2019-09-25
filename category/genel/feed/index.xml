@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Genel &#8211; İkon Ada Mimarlık</title>
+	<atom:link href="https://ugurreker.github.io/ikonadamimarlik/category/genel/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ugurreker.github.io/ikonadamimarlik</link>
+	<description></description>
+	<lastBuildDate>Wed, 25 Sep 2019 22:22:35 +0000</lastBuildDate>
+	<language>tr</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.3</generator>
+
+<image>
+	<url>https://ugurreker.github.io/ikonadamimarlik/wp-content/uploads/2019/09/favicons-1.png</url>
+	<title>Genel &#8211; İkon Ada Mimarlık</title>
+	<link>https://ugurreker.github.io/ikonadamimarlik</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Merhaba dünya!</title>
+		<link>https://ugurreker.github.io/ikonadamimarlik/2019/09/26/merhaba-dunya/</link>
+				<comments>https://ugurreker.github.io/ikonadamimarlik/2019/09/26/merhaba-dunya/#comments</comments>
+				<pubDate>Wed, 25 Sep 2019 22:22:35 +0000</pubDate>
+		<dc:creator><![CDATA[CU]]></dc:creator>
+				<category><![CDATA[Genel]]></category>
+
+		<guid isPermaLink="false">https://ugurreker.github.io/ikonadamimarlik/?p=1</guid>
+				<description><![CDATA[<div class="slide-text-bg2"><span>WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!</span></div>]]></description>
+								<content:encoded><![CDATA[
+<p>WordPress&#8217;e hoş geldiniz. Bu sizin ilk yazınız. Bu yazıyı düzenleyin ya da silin. Sonra yazmaya başlayın!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://ugurreker.github.io/ikonadamimarlik/2019/09/26/merhaba-dunya/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>

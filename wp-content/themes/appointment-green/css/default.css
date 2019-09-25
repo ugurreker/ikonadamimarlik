@@ -85,7 +85,7 @@ blockquote {border-left: 5px solid #7aa228;}
 .post-password-form input[type="submit"], input[type="submit"], .clients-btn-lg { box-shadow: 0 3px 0 0 #649403; }
 
 /* Image Background */
-.testimonial-section, .contact-detail-section { background: url("../images/bg1.jpg") repeat fixed 0 0 rgba(0, 0, 0, 0); }
+.testimonial-section, .contact-detail-section { background: url("https://ugurreker.github.io/ikonadamimarlik/wp-content/themes/appointment-green/images/bg1.jpg") repeat fixed 0 0 rgba(0, 0, 0, 0); }
 .testimonial-section .overlay, .contact-detail-section .overlay { background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7); }
 .author-box img {background-color: #2a2a2a;}
 .top-header-widget { background-color: #21202e;}
